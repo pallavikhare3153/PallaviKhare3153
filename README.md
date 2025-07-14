@@ -1,7 +1,7 @@
 ## Welcome
 
 <h1 align="center">Hi 👋, I'm Pallavi Khare</h1>
-<h2 align="center">Versatile & Skilled developer in Java, Python, JavaScript, HTML, CSS, C, C++, Flutter, Dart, Spring & Power BI. Creating innovative secure & unique solutions.                         Full-stack development, Data Analytics, Software Design & App development.</h2>
+<h2 align="center">Versatile & Skilled developer in Java, React, JavaScript, HTML, CSS, Python, C, C++, Flutter, Dart, Spring & Power BI. Creating innovative secure & unique solutions.                         Full-stack development, Data Analytics, Software Design & App development.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare31" /> </p>
 
